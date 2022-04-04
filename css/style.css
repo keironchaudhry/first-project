@@ -63,8 +63,6 @@ ul {
 
 /* hero image */
 
-/* hero image */
-
 #hero-outer {
     height: 600px;
     width: 100%;
@@ -74,5 +72,6 @@ ul {
 #hero-image {
     height: 600px;
     width: 100%;
-    background: url(../css/images/marbella_street_hero_image.jpg) no-repeat center center;
+    background: url(../css/images/hero-image-spanish.jpg) no-repeat center center;
+    background-size: cover;
 }
