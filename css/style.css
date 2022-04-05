@@ -23,43 +23,38 @@ body {
     font-size: 50px;
 }
 
-/* Nav bar design */
+/* nav bar design */
 
 #menu {
     list-style-type: none;
     float: right;
     margin-right: 20px;
+    margin-top: 10px;
 }
 
 ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
-
-  ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-  }
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
   
-  li {
-    float: left;
-  }
-  
-  li a {
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: large;
-  }
+li {
+  float: left;
+}
 
-  li a:hover {
-    text-decoration: underline;
-  }
+li a {
+  display: block;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: large;
+  color: orange;
+}
+
+li a:hover {
+  text-decoration: underline;
+}
 
 /* hero image */
 
@@ -74,4 +69,19 @@ ul {
     width: 100%;
     background: url(../css/images/hero-image-spanish.jpg) no-repeat center center;
     background-size: cover;
+}
+
+/* about section */
+
+#about-spanish h2 {
+  color: orange;
+  text-align: center;
+  letter-spacing: 5px;
+  font-family: Bebas Neue, sans-serif;
+  font-size: 40px;
+}
+
+#about-spanish p {
+  color: orange;
+  text-align: center;
 }
