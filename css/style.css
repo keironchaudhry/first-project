@@ -50,7 +50,7 @@ li a {
   padding: 16px 20px;
   text-decoration: none;
   font-size: large;
-  color: orange;
+  color: orangered;
 }
 
 li a:hover {
@@ -75,6 +75,7 @@ li a:hover {
 /* about section */
 
 .about-spanish h2 {
+  margin-top: 30px;
   color: orange;
   text-align: center;
   letter-spacing: 5px;
@@ -83,6 +84,20 @@ li a:hover {
 }
 
 .about-spanish p {
-  color: orange;
+  color: orangered;
   text-align: center;
+}
+
+/* images getting started */
+
+.column {
+  margin: 30px 0 30px 70px;
+  float: left;
+  width: 40%;
+  padding: 5px;
+}
+
+.row {
+  clear: both;
+  display: table;
 }
