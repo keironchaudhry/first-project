@@ -47,9 +47,10 @@ li {
 li a {
   display: block;
   text-align: center;
-  padding: 16px 20px;
-  text-decoration: none;
+  padding: 16px 35px;
+  text-decoration: none;  
   font-size: large;
+  font-weight: bold;
   color: orangered;
 }
 
@@ -86,6 +87,7 @@ li a:hover {
 .about-spanish p {
   color: orangered;
   text-align: center;
+  margin: 0 70px 0 70px;
 }
 
 /* images getting started */
@@ -100,6 +102,15 @@ li a:hover {
 .row {
   clear: both;
   display: table;
+}
+
+/* recommended links */
+
+#recommended-links li {
+  text-align: center;
+  text-decoration: underline;
+  float: left;
+  margin: 0 0 0 175px;
 }
 
 /* footer and social media */
@@ -118,7 +129,7 @@ footer {
 
 .social-media li {
   float: left;
-  margin: 40px 20px 40px 100px;
+  margin: 40px 20px 40px 80px;
 }
 
 i {
