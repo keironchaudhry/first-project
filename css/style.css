@@ -101,3 +101,27 @@ li a:hover {
   clear: both;
   display: table;
 }
+
+/* footer and social media */
+
+footer {
+  margin: 0px auto;
+  padding-bottom: 0px;
+  width: 850px;
+}
+
+.social-media ul {
+  list-style: none;
+  margin: 10px 10px 10px 60px;
+  padding: 0px;
+}
+
+.social-media li {
+  float: left;
+  margin: 40px 20px 40px 100px;
+}
+
+i {
+  font-size: 200%;
+
+}
