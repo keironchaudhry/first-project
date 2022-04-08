@@ -24,7 +24,7 @@ body {
 
 /* nav bar design */
 
-#menu {
+.menu {
     list-style-type: none;
     float: right;
     position: fixed;
@@ -135,4 +135,22 @@ footer {
 i {
   font-size: 200%;
 
+}
+
+/* contact page */
+
+/* contact page hero image */
+
+#contact-outer {
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 75px;
+}
+
+#contact-image {
+  height: 600px;
+  width: 100%;
+  background: url(../css/images/contact-us-hero-image.jpg) no-repeat center center;
+  background-size: cover;
 }
