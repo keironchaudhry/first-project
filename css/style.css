@@ -154,3 +154,17 @@ i {
   background: url(../css/images/contact-us-hero-image.jpg) no-repeat center center;
   background-size: cover;
 }
+
+/* contact table */
+
+table {
+  border-collapse: collapse;
+  width: 85%;
+  margin-left: 135px;
+}
+
+td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
