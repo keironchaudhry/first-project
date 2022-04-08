@@ -160,7 +160,7 @@ i {
 table {
   border-collapse: collapse;
   width: 85%;
-  margin-left: 135px;
+  margin: 0 60px 0 80px;
 }
 
 td {
