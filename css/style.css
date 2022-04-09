@@ -13,7 +13,7 @@ body {
 
 /* heading and logo design */
 
-#logo {
+.logo {
   float: left;
   font-family: Bebas Neue, sans-serif;
   color: orange;
@@ -184,6 +184,19 @@ td {
 }
 
 /* sign-up form */
+
+#sign-up-outer {
+  height: 600px;
+  width: 100%;
+  overflow: hidden;
+}
+
+#sign-up-image {
+  height: 600px;
+  width: 100%;
+  background: url(../css/images/sign-up-photo.jpeg) no-repeat center center;
+  background-size: cover;
+}
 
 .container {
   padding: 16px;
