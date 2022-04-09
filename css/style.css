@@ -160,11 +160,25 @@ i {
 table {
   border-collapse: collapse;
   width: 85%;
-  margin: 0 60px 0 80px;
+  margin: 30px 60px 30px 80px;
 }
 
 td {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
+  color: orangered;
+}
+
+/* map */
+
+#map {
+  height: 100%;
+  width: 100%;
+  border: none;
+}
+
+#map-wrapper {
+  height: 400px;
+  margin: 50px 50px 50px 50px;
 }
