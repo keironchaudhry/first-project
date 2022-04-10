@@ -134,7 +134,6 @@ footer {
 
 i {
   font-size: 200%;
-
 }
 
 /* contact page */
@@ -227,4 +226,61 @@ input {
   width: 200px;
   opacity: 0.9;
   border-radius: 8px;
+}
+
+/* media query */
+
+/* for medium screen sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+
+  .menu {
+    list-style-type: none;
+    float: right;
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    padding: 10px 0 10px 0;
+  }
+
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;  
+    font-size: large;
+    font-weight: bold;
+    color: orangered;
+  }
+
+  footer {
+    margin: 0px auto;
+    padding-bottom: 0px;
+    width: 950px;
+  }
+  
+  .social-media ul {
+    list-style: none;
+    margin: 10px 10px 10px 60px;
+    padding: 0px;
+  }
+  
+  .social-media li {
+    float: left;
+    margin: 40px 20px 40px 125px;
+  }
+  
+  i {
+    font-size: 200%;
+  }
+
+  #recommended-links li {
+    text-align: center;
+    text-decoration: underline;
+    float: left;
+    margin: 0 0 0 140px;
+  }
 }
