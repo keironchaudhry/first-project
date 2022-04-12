@@ -25,12 +25,12 @@ body {
 /* nav bar design */
 
 .menu {
-    list-style-type: none;
-    float: right;
-    position: fixed;
-    width: 100%;
-    background-color: #fff;
-    padding: 10px 0 10px 0;
+  list-style-type: none;
+  float: right;
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+  padding: 10px 0 10px 0;
 }
 
 ul {
@@ -39,7 +39,7 @@ ul {
   padding: 0;
   overflow: hidden;
 }
-  
+
 li {
   float: right;
 }
@@ -52,10 +52,6 @@ li a {
   font-size: large;
   font-weight: bold;
   color: orangered;
-}
-
-li a:hover {
-  text-decoration: underline;
 }
 
 /* hero image */
@@ -106,30 +102,18 @@ li a:hover {
 
 /* recommended links */
 
-#recommended-links li {
-  text-align: center;
+#recommended-links {
   text-decoration: underline;
-  float: left;
-  margin: 0 0 0 186px;
+  display: flex;
+  justify-content: center;
 }
 
 /* footer and social media */
 
-footer {
-  margin: 0px auto;
-  padding-bottom: 0px;
-  width: 850px;
-}
-
-.social-media ul {
-  list-style: none;
-  margin: 10px 10px 10px 60px;
-  padding: 0px;
-}
-
-.social-media li {
-  float: left;
-  margin: 40px 20px 40px 80px;
+footer ul {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0 30px 0;
 }
 
 i {
