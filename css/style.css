@@ -89,14 +89,16 @@ li a {
 /* images getting started */
 
 .column {
-  margin: 30px 0 20px 70px;
-  float: left;
-  width: 40%;
+  margin: auto;
+  justify-content: center;
+  display: flex;
+  width: 100%;
   padding: 5px;
 }
 
 .row {
-  display: table;
+  display: flex;
+  justify-content: center;
   clear: both;
 }
 
@@ -142,8 +144,9 @@ i {
 
 table {
   border-collapse: collapse;
-  width: 85%;
-  margin: 30px 60px 30px 80px;
+  width: 95%;
+  margin: 30px 0 0 2.5%;
+  justify-content: center;
 }
 
 td {
@@ -192,7 +195,7 @@ label {
 }
 
 input {
-  width: 85%;
+  width: 90%;
   padding: 15px;
   margin: 5px 60px 22px 60px;
   display: flex;
