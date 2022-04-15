@@ -55,12 +55,6 @@ li a {
 
 /* hero image */
 
-#hero-outer {
-  height: 600px;
-  width: 100%;
-  overflow: hidden;
-}
-
 #hero-image {
   height: 600px;
   width: 100%;
@@ -98,8 +92,7 @@ li a {
 .row {
   display: flex;
   justify-content: center;
-  clear: both;
-}
+} 
 
 /* recommended links */
 
@@ -145,24 +138,12 @@ i {
 
 /* map */
 
-#map {
-  height: 100%;
-  width: 100%;
-  border: none;
-}
-
 #map-wrapper {
   height: 400px;
   margin: 50px 0 -60px 0;
 }
 
 /* sign-up form */
-
-#sign-up-outer {
-  height: 600px;
-  width: 100%;
-  overflow: hidden;
-}
 
 #sign-up-image {
   height: 600px;
@@ -186,7 +167,6 @@ input {
   padding: 15px;
   margin: 5px 60px 22px 60px;
   display: flex;
-  display: grid;
   justify-content: center;
   text-align: left;
   border: none;
@@ -200,9 +180,7 @@ input {
   font-weight: bold;
   font-size: large;
   display: flex;
-  display: grid;
   justify-content: center;
-  text-align: center;
   margin: auto;
   padding: 25px;
   border-radius: 8px;
