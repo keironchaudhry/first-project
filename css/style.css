@@ -297,6 +297,13 @@ input {
   #recommended-links a {
     font-size: smaller;
   }
+
+  /* contact page */
+
+  #contact-image {
+    margin-bottom: -180px;
+  }
+
 }
 
 @media screen and (max-width: 320px) {
