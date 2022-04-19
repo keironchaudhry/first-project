@@ -188,6 +188,10 @@ input {
   border-radius: 8px;
 }
 
+.submit:hover {
+  color: goldenrod;
+}
+
 /* media query */
 
 /* for screens 1024px and lower */
