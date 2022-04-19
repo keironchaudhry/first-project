@@ -138,9 +138,11 @@ i {
 
 /* map */
 
-#map-wrapper {
-  height: 400px;
-  margin: 50px 0 -60px 0;
+#map-wrapper iframe {
+  height: 300px;
+  width: 100%;
+  border: 0;
+  margin: 50px 0 50px 0;
 }
 
 /* sign-up form */
