@@ -199,6 +199,16 @@ input {
   color: #daa520;
 }
 
+/* form dump */
+
+#form-dump {
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  background: url(assets/gracias-2-photo.jpg) no-repeat center center;
+  background-size: contain;
+}
+
 /* media query */
 
 /* for screens 1024px and lower */
@@ -229,6 +239,14 @@ input {
 
   .submit {
     margin-top: 20px;
+  }
+
+  /* form dump */
+
+  #form-dump {
+    background-size: contain;
+    width: 100%;
+    margin: auto;
   }
 }
 
@@ -263,6 +281,14 @@ input {
 
   label {
     margin: 0 0 0 35px;
+  }
+
+  /* form dump */
+
+  #form-dump {
+    display: flex;
+    background-size: contain;
+    width: 100%;
   }
 }
 
