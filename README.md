@@ -52,7 +52,41 @@ All images have been chosen in accordance with the design, content relevance and
 
 # Features
 
-* **Navigation bar**
+The Marbella Spanish School has three main HTML pages and a fourth for when the Sign Up page form is filled.
+
+* "About" page
+   * Nav bar
+   * Hero-image
+   * About us 
+   * Getting started
+   * Recommended links
+   * Footer 
+
+* "Contact" page 
+   * Nav bar
+   * Hero-image
+   * Timetable
+   * Contact information
+   * Address
+   * Map
+   * Footer
+
+* "Sign Up" page
+   * Nav bar
+   * Hero-image
+   * Form
+   * Submit
+   * Footer
+
+* "Form-dump" page
+   * Nav bar
+   * Hero-image
+   * "Thank you" message
+   * Footer
+
+**Website Features**
+
+**Navigation bar**
 
   * Located at the top of the page, it includes the website logo on the left and the three About, Contact and Sign-Up links on the right.
   * The logo is also an anchor link to the About page (first page). 
@@ -60,12 +94,13 @@ All images have been chosen in accordance with the design, content relevance and
   * The navigation bar provides clear information about the website name and its pages.
   * The navigation bar position is fixed so that it follows the page up and down, therefore being continuously available.
   * The color scheme for the navigation bar is also thematic throughout the website - orange and white, typical Mediterranean colours.
+  * It is located on every single page in the same location across the website.
   
 
 ![screenshot-nar-bar](https://user-images.githubusercontent.com/78651133/164172315-246992e9-130b-44bc-815f-0f6ad42b9c8f.jpg)
 
 
-* **About section**
+**About page**
 
   * The about section supplies concise information about the history and development of the Spanish language.
   * Hero image compliments the colour scheme of the website.
@@ -76,23 +111,66 @@ All images have been chosen in accordance with the design, content relevance and
   * The final sub-section, "Recommended Links" provides users links to various sources for Spanish language elementary learning.
   * It also features extra links to the contact page or to the sign-up page as continuous user guidance.
  
-  
 ![screenshot-hero-image-about](https://user-images.githubusercontent.com/78651133/164277903-a2629858-ceff-4f43-9324-76647c764122.jpg)
-
 ![screenshot-about-spanish](https://user-images.githubusercontent.com/78651133/164270290-dad61868-c37e-4970-bcfe-b9c995d49d31.jpg)
-
 ![screenshot-getting-started](https://user-images.githubusercontent.com/78651133/164273157-41abcbf1-954f-4f58-80a5-813810b95de3.jpg)
-
+![screenshot-images-started](https://user-images.githubusercontent.com/78651133/164632333-ffafd52c-d4a1-434e-8b07-98da190ef9bc.jpg)
 ![screenshot-our-recommendations](https://user-images.githubusercontent.com/78651133/164273202-228e4dbb-24f7-4f6c-ad15-e0fd27050730.jpg)
 
-
-* **Footer**
+**Footer**
 
   * Located at the bottom of the page, it provides links to social media pages: Facebook, Twitter, Instagram and Youtube.
   * Anchor elements have been made into icons representing the social media links, each from Font Awesome. 
-
+  * Like the navigation bar, the footer can be found consistently across all pages across the website.
 
 ![screenshot-footer](https://user-images.githubusercontent.com/78651133/164277487-2b51fdc2-5b9e-4ff0-aebf-1ec6b6ca3491.jpg)
+
+**Contact page**
+
+  * The contact page contains contact information and location regarding MSS.
+  * Hero-image matches the colour design.
+  * Contains clear sub-heading titles.
+  * Contains a timetable with the opening and closing hours.
+  * Contains information on how to directly contact MSS (it may be appropriate to mention that all numbers are fictitious).
+  * Contains an address (fictitious) to a street in Marbella.
+  * Contains a map guiding the user to the location.
+  * Contains link at the bottom of the page to guide the user straight to the sign-up page.
+
+![screenshot-contact-header](https://user-images.githubusercontent.com/78651133/164626413-f9b71a06-fa41-42e6-b80e-f0fad430a0a0.jpg)
+![screenshot-contact-timeable](https://user-images.githubusercontent.com/78651133/164626469-859b3eca-d751-4ef5-906e-8db40fcafc69.jpg)
+![screenshot-contact-contact-us](https://user-images.githubusercontent.com/78651133/164626488-e594df6f-c749-49da-b08b-657ec1db5480.jpg)
+![screenshot-contact-location](https://user-images.githubusercontent.com/78651133/164626532-12010e02-e251-458f-847a-7b675dad5c42.jpg)
+![screenshot-contact-map](https://user-images.githubusercontent.com/78651133/164626551-6166688a-f820-4e16-af68-9d357673cb1c.jpg)
+
+**Sign Up page**
+
+  * The sign up page contains the form that is to be filled in order to sign up. 
+  * Hero-image is relevant to the content of the page.
+  * Contains clear sub-heading titles and description.
+  * Form is wide, ample and very clear.
+  * Form colour scheme is consistent to the website.
+  * Form will not allow itself to be sent unless filled.
+  * Form must be filled with the appropriate type text and email. 
+  * Submit button changes text colour to goldenrod to indicate that it is responsive to the user.
+
+![screenshot-sign-up-header](https://user-images.githubusercontent.com/78651133/164628066-33e039b9-dac3-4fb0-913f-c34614c4346e.jpg)
+![screenshot-sign-up-form](https://user-images.githubusercontent.com/78651133/164628078-989ef4f6-6b39-44f6-90e3-5105cf3a016e.jpg)
+![screenshot-sign-up-thanks](https://user-images.githubusercontent.com/78651133/164628672-4675d44b-af7e-4c9f-836e-fffe7409c4bf.jpg)
+
+**Form dump**
+
+  * Contains a hero-image with a thank you message, in this case in Spanish ("Gracias!").
+  * Contains below a descriptive thank you message for the user.
+
+![screenshot-form-dump-header](https://user-images.githubusercontent.com/78651133/164630858-0973d3d9-f91a-4a61-9e0f-4cffb332e1ea.jpg)
+![screenshot-form-dump-thanks](https://user-images.githubusercontent.com/78651133/164630950-9a87700a-0ca3-43cb-8ee7-a67e08a79e5f.jpg)
+
+
+
+
+
+
+
 
 
 
