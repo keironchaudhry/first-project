@@ -197,6 +197,37 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 
 # Testing
 
+Testing the functionality and overall appearence of the website has been largely dealt with throughout the creation and development of the website.
+
+Tests have been conducted using Google Chrome, Mozilla Firefox and Safari. Testing the different sizes has been carried out using Google Developer Tools.
+
+The issues that came about were:
+
+1. Deployment of website would not initially work and the deployed link went to a blank, basic READme.
+* Solution: Folder and files in the First Project main branch were not orderly. Shifted style.css file out of a CSS folder, moved into the main First Project folder, renamed CSS folder to Assets and moved Images into it. Then renamed first-project.html to index.html.
+
+2. Poor performance on smaller screens. Mostly trouble with navigation bar and the anchor links cropped with the logo as from 768px and below.
+* Solution: Used media queries to align the anchor elements below the logo as from 768px downwards.
+
+3. Data form allows users to submit their information, even when an email hasn't been provided.
+* Solution: E-mail input type was incorrectly entered as text, has since been changed to email.
+
+4. Poor performance from hero-image on the Contact page.
+* Solution: Using media queries for different screen sizes and lower, have adjusted the CSS style so that it can be displayed correctly.
+
+5. Navigation bar on Mozilla Firefox browser was not cropping correctly despite it functioning on Safari and Google Chrome.
+* Solution: Removed float from the style.css file for screens 768px or lower.
+
+6. Recommended links on About page begin to crop outside of the website border as screen-size lower.
+* Solution: Lower font size and spacing between anchor links.
+
+7. Footer crops outside of website border as screen sizes collapse lower.
+* Solution: Changed the font size on the i elements to fix the spacing. 
+
+**Ongoing bugs**
+
+1. Poor performance and cropping of elements below 320px or lower.
+
 **Validator testing**
 
 * HTML
