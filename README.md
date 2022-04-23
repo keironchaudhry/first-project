@@ -1,6 +1,8 @@
 # Marbella Spanish School
 
-The Marbella Spanish School is a website designed to advertise the fictional aforementioned academic private school and enroll students onto the courses it offers. The Marbella Spanish School offers a Full-time Course and Part-Time Course and carries out examinations based on the Common European Language Framework.
+![screenshot-responsive-design](https://user-images.githubusercontent.com/78651133/164167538-cd3bb96a-e882-4d80-b362-38d3a7b96a21.jpg)
+
+The Marbella Spanish School is a website designed to advertise the fictional aforementioned academic private school and enroll students onto the courses it offers. The school offers a Full-time Course and Part-Time Course and carries out examinations based on the Common European Language Framework.
 
 The website contains three main pages: About, Contact and Sign Up, which are all linked together to give guided content.
 
@@ -10,12 +12,11 @@ The project is the first milestone of five that needs to be completed for the Co
 
 The deployed version of the site can be found here: https://keironchaudhry.github.io/first-project/sign-up.html
 
-![screenshot-responsive-design](https://user-images.githubusercontent.com/78651133/164167538-cd3bb96a-e882-4d80-b362-38d3a7b96a21.jpg)
-
 **Requirements**
 
-To create a static website applying the knowledge of what has been learned so far that contains responsive functionality and smooth user design. The development of the site should be controlled and documented through Github. The required technologies are HTML and CSS3.
+To create a static website applying the knowledge of what has been learned so far that contains responsive functionality and smooth user design. The development of the site should be controlled and documented through Github. 
 
+The required technologies are HTML and CSS3.
 
 # UX 
 
@@ -32,15 +33,17 @@ This site has been designed for students of all ages that wish to study Spanish 
 
 **Design**
 
-This being my first project, the design has been by the Love Running project. The code for the footer was borrowed from that project, although different Font Awesome icons have been used. The design of the header has been influenced by that same project.
+The design has been inspired by the Love Running project. The code for the footer was borrowed from that project, although different Font Awesome icons have been used. The design of the header has been influenced by that same project.
 
 The aim of the website has been to create a simple website with a pleasing colour scheme, which is appropriate to colours associated with the Spanish language and culture (especially around the Marbella area) and that also contains a high level of functionality.
 
 The Marbella Spanish School is a website consisting of three HTML pages that are all interlinked and consistent in design. The navigation bar menu is fixed at the top and the footer is found at the bottom. At the bottom of every page there is always another link to the following page to encourage users to proceed.
 
+There is also a fourth HTML page which is for the form-dump, that allows users to know that their submission has been successful.
+
 **Typography**
 
-The fonts applied to this website were Montserrat as the principal font of the headers and subheadings, and 
+The fonts applied to this website was Bebas Neue as the principal font of the headers and subheadings, and Montserrat for the rest of the smaller font types. 
 
 **Colour scheme**
 
@@ -165,15 +168,61 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 ![screenshot-form-dump-header](https://user-images.githubusercontent.com/78651133/164630858-0973d3d9-f91a-4a61-9e0f-4cffb332e1ea.jpg)
 ![screenshot-form-dump-thanks](https://user-images.githubusercontent.com/78651133/164630950-9a87700a-0ca3-43cb-8ee7-a67e08a79e5f.jpg)
 
+# Testing
 
+**Validator testing**
 
+* HTML
 
+    * No errors were returned when passing through the official W3C Validator 
 
+![html validator](https://user-images.githubusercontent.com/78651133/164883156-5957cf05-79e2-417f-ae18-a6bcf9f82e84.jpg)
 
+* CSS
 
+    * No errors were returned when passing through the official Jigsaw validator
 
+![css validator test](https://user-images.githubusercontent.com/78651133/164883194-c2d482a7-e375-45bb-b37e-e40e576bf42e.jpg)
 
+* Lighthouse testing
 
+![lighthouse-about-page](https://user-images.githubusercontent.com/78651133/164883208-5bf1c806-62ee-4dd8-b199-8e42b0b8fa2d.jpg)
 
+# Media
 
+The hero-image used on the About page was borrowed from "Natalie / iStock", which was located via aarp.org (https://www.aarp.org/espanol/politica/latinoamerica-mundo/info-2019/trivia-idioma-espanol-castellano.html#quest1).
+
+The chalkboard image used on the About Section is credited to "Tarifa Adventure" (https://www.tarifaadventure.com/activities-in-tarifa/spanish-language-courses/).
+
+And finally the form-dump "Gracias!" is credited to the "Fundacion Hospital General de la Santisima Trinidad" (https://fhgst.es/gracias-por-vuestra-solidaridad/).
+
+All other images were sourced via Pexels.
+
+# Credits
+
+For inspiration, guidance and inputs, thank you to:
+
+Sandeep Aggarwal
+
+  * Great mentor at Code Institute
+
+Jack Crymble 
+
+  * Friend and guide, thank you for your knowledge and insight!
+    
+Jody Murray 
+
+  * Fellow student and colleague, thank you for your input!
+    
+# Useful sources
+
+The website outside of Code Institute that has provided me with a lot of guidance are:
+
+https://www.w3schools.com/
+
+https://stackoverflow.com
+
+The project Love Running, which was a guided-practice website provided by Code Institute.
+
+For the responsive scrren, http://ami.responsivedesign.is/
 
