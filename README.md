@@ -18,20 +18,47 @@ To create a static website applying the knowledge of what has been learned so fa
 
 The required technologies are HTML and CSS3.
 
+# Table of content
+
+* [UX](https://github.com/keironchaudhry/first-project#ux)
+    * User Demographic
+    * User Goals
+    * Design
+    * Typography
+    * Colour scheme
+    * Images
+* Features
+    * About page
+    * Contact page
+    * Sign up page
+    * Form dump page
+* Website features
+    * Navigation bar
+    * About page
+    * Footer
+    * Contact page
+    * Sign up page
+    * Form dump
+* Testing
+* Media
+* Credits
+* Useful sources
+
+
 # UX 
 
-**User Demographic**
+### **User Demographic**
 
 This site has been designed for students of all ages that wish to study Spanish and obtain certification. 
 
-**User Goals**
+### **User Goals**
 
 * To be able to find out information about the school.
 * To be able to contact the school.
 * To be able to find its location instantly.
 * To be able to sign up.
 
-**Design**
+### **Design**
 
 The design has been inspired by the Love Running project. The code for the footer was borrowed from that project, although different Font Awesome icons have been used. The design of the header has been influenced by that same project.
 
@@ -41,15 +68,15 @@ The Marbella Spanish School is a website consisting of three HTML pages that are
 
 There is also a fourth HTML page which is for the form-dump, that allows users to know that their submission has been successful.
 
-**Typography**
+### **Typography**
 
 The fonts applied to this website was Bebas Neue as the principal font of the headers and subheadings, and Montserrat for the rest of the smaller font types. 
 
-**Colour scheme**
+### **Colour scheme**
 
 The colour design used for MSS was a blend between Orange, Orangered, White and Goldenrod. This colour design was influenced by my own geometric patterns that I personally practise at home. The colour design is relevant to the theme of the site, which is the Spanish language, as Oranges and Lemons and their associated trees are a well known aspect of Southern Spanish culture. It also holds relevance to the national flag, which is a scheme of Orange and Yellow. 
 
-**Images**
+### **Images**
 
 All images have been chosen in accordance with the design, content relevance and colour-scheme of the website. The purpose of the website is to give an air of Mediterranean culture and scholarship, yet simple enough within that content to attract students and maintain their interest.
 
@@ -57,7 +84,7 @@ All images have been chosen in accordance with the design, content relevance and
 
 The Marbella Spanish School has three main HTML pages and a fourth for when the Sign Up page form is filled.
 
-* "About" page
+#### * "About" page
    * Nav bar
    * Hero-image
    * About us 
@@ -65,7 +92,7 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
    * Recommended links
    * Footer 
 
-* "Contact" page 
+#### * "Contact" page 
    * Nav bar
    * Hero-image
    * Timetable
@@ -74,22 +101,22 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
    * Map
    * Footer
 
-* "Sign Up" page
+#### * "Sign Up" page
    * Nav bar
    * Hero-image
    * Form
    * Submit
    * Footer
 
-* "Form-dump" page
+#### * "Form-dump" page
    * Nav bar
    * Hero-image
    * "Thank you" message
    * Footer
 
-**Website Features**
+# **Website Features**
 
-**Navigation bar**
+### **Navigation bar**
 
   * Located at the top of the page, it includes the website logo on the left and the three About, Contact and Sign-Up links on the right.
   * The logo is also an anchor link to the About page (first page). 
@@ -103,7 +130,7 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 ![screenshot-nar-bar](https://user-images.githubusercontent.com/78651133/164172315-246992e9-130b-44bc-815f-0f6ad42b9c8f.jpg)
 
 
-**About page**
+### **About page**
 
   * The about section supplies concise information about the history and development of the Spanish language.
   * Hero image compliments the colour scheme of the website.
@@ -120,7 +147,7 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 ![screenshot-images-started](https://user-images.githubusercontent.com/78651133/164632333-ffafd52c-d4a1-434e-8b07-98da190ef9bc.jpg)
 ![screenshot-our-recommendations](https://user-images.githubusercontent.com/78651133/164273202-228e4dbb-24f7-4f6c-ad15-e0fd27050730.jpg)
 
-**Footer**
+### **Footer**
 
   * Located at the bottom of the page, it provides links to social media pages: Facebook, Twitter, Instagram and Youtube.
   * Anchor elements have been made into icons representing the social media links, each from Font Awesome. 
@@ -128,7 +155,7 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 
 ![screenshot-footer](https://user-images.githubusercontent.com/78651133/164277487-2b51fdc2-5b9e-4ff0-aebf-1ec6b6ca3491.jpg)
 
-**Contact page**
+### **Contact page**
 
   * The contact page contains contact information and location regarding MSS.
   * Hero-image matches the colour design.
@@ -145,7 +172,7 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 ![screenshot-contact-location](https://user-images.githubusercontent.com/78651133/164626532-12010e02-e251-458f-847a-7b675dad5c42.jpg)
 ![screenshot-contact-map](https://user-images.githubusercontent.com/78651133/164626551-6166688a-f820-4e16-af68-9d357673cb1c.jpg)
 
-**Sign Up page**
+### **Sign Up page**
 
   * The sign up page contains the form that is to be filled in order to sign up. 
   * Hero-image is relevant to the content of the page.
@@ -160,7 +187,7 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 ![screenshot-sign-up-form](https://user-images.githubusercontent.com/78651133/164628078-989ef4f6-6b39-44f6-90e3-5105cf3a016e.jpg)
 ![screenshot-sign-up-thanks](https://user-images.githubusercontent.com/78651133/164628672-4675d44b-af7e-4c9f-836e-fffe7409c4bf.jpg)
 
-**Form dump**
+### **Form dump**
 
   * Contains a hero-image with a thank you message, in this case in Spanish ("Gracias!").
   * Contains below a descriptive thank you message for the user.
