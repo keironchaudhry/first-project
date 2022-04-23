@@ -20,29 +20,29 @@ The required technologies are HTML and CSS3.
 
 # Table of content
 
-* [UX](https://github.com/keironchaudhry/first-project#ux)
-    * User Demographic
-    * User Goals
-    * Design
-    * Typography
-    * Colour scheme
-    * Images
-* Features
-    * About page
-    * Contact page
-    * Sign up page
-    * Form dump page
-* Website features
-    * Navigation bar
-    * About page
-    * Footer
-    * Contact page
-    * Sign up page
-    * Form dump
-* Testing
-* Media
-* Credits
-* Useful sources
+* [UX](#ux)
+    * [User Demographic](#user-demographic)
+    * [User Goals](#user-goals)
+    * [Design](#design)
+    * [Typography](#typography)
+    * [Colour scheme](#colour-scheme)
+    * [Images](#images)
+* [Features](#features)
+    * [About page](#-about-page)
+    * [Contact page](#-contact-page)
+    * [Sign up page](#-sign-up-page)
+    * [Form dump page](#-form-dump-page)
+* [Website features](#website-features)
+    * [Navigation bar](#navigation-bar)
+    * [About page](#about-page)
+    * [Footer](#footer)
+    * [Contact page](#contact-page)
+    * [Sign up page](#sign-up-page)
+    * [Form dump](#form-dump)
+* [Testing](#testing)
+* [Media](#media)
+* [Credits](#credits)
+* [Useful sources](#useful-sources)
 
 
 # UX 
