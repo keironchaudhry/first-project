@@ -109,6 +109,9 @@ input {
 
 /* images getting started */
 
+/* code originally borrowed from www.w3schools.com, 
+however code design has largely changed throughout development */
+
 .column {
   margin: auto;
   justify-content: center;
