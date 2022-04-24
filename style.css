@@ -10,27 +10,6 @@ body {
   font-family: Montserrat, sans-serif;
 }
 
-/* heading and logo design */
-
-.logo {
-  float: left;
-  font-family: Bebas Neue, sans-serif;
-  color: #FFA500;
-  letter-spacing: 5px;
-  font-size: 50px;
-  padding-left: 20px;
-}
-
-/* nav bar design */
-
-.menu {
-  list-style-type: none;
-  position: fixed;
-  width: 100%;
-  background-color: #fff;
-  padding: 10px 0 10px 0;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -51,6 +30,55 @@ li {
 
 li a {
   color: #FF4500;
+}
+
+footer ul {
+  display: flex;
+  justify-content: space-around;
+  margin: 30px 0 30px 0;
+}
+
+i {
+  font-size: 200%;
+}
+
+label {
+  margin: 0 0 0 70px;
+  font-weight: bold;
+  color: #FF4500;
+}
+
+input {
+  width: 90%;
+  padding: 15px;
+  margin: 5px 60px 22px 60px;
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  border: none;
+  background: #f1f1f1;
+  border-radius: 8px;
+}
+
+/* heading and logo design */
+
+.logo {
+  float: left;
+  font-family: Bebas Neue, sans-serif;
+  color: #FFA500;
+  letter-spacing: 5px;
+  font-size: 50px;
+  padding-left: 20px;
+}
+
+/* nav bar design */
+
+.menu {
+  list-style-type: none;
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+  padding: 10px 0 10px 0;
 }
 
 /* hero image */
@@ -102,18 +130,6 @@ li a {
   justify-content: center;
 }
 
-/* footer and social media */
-
-footer ul {
-  display: flex;
-  justify-content: space-around;
-  margin: 30px 0 30px 0;
-}
-
-i {
-  font-size: 200%;
-}
-
 /* contact page */
 
 /* contact page hero image */
@@ -163,24 +179,6 @@ i {
 
 .container {
   padding: 16px;
-}
-
-label {
-  margin: 0 0 0 70px;
-  font-weight: bold;
-  color: #FF4500;
-}
-
-input {
-  width: 90%;
-  padding: 15px;
-  margin: 5px 60px 22px 60px;
-  display: flex;
-  justify-content: center;
-  text-align: left;
-  border: none;
-  background: #f1f1f1;
-  border-radius: 8px;
 }
 
 .submit {
@@ -341,7 +339,6 @@ input {
   #contact-image {
     margin-bottom: -180px;
   }
-
 }
 
 @media screen and (max-width: 320px) {
@@ -390,5 +387,4 @@ input {
     padding: 15px;
     font-size: medium;
   }
-
 }
