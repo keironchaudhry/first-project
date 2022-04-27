@@ -10,7 +10,7 @@ Users of the website are able to find all the information they need regarding th
 
 The project is the first milestone of five that needs to be completed for the Code Institute. The requirement is to create a static, responsive website just using HTML and CSS3. 
 
-The deployed version of the site can be found here: https://keironchaudhry.github.io/first-project/sign-up.html
+The deployed version of the site can be found here: https://keironchaudhry.github.io/p1-marbella-spanish-school/
 
 **Requirements**
 
@@ -282,5 +282,5 @@ https://stackoverflow.com
 
 The project Love Running, which was a guided-practice website provided by Code Institute.
 
-For the responsive scrren, http://ami.responsivedesign.is/
+For the responsive screen, http://ami.responsivedesign.is/
 
