@@ -200,9 +200,9 @@ however code design has largely changed throughout development */
   color: #daa520;
 }
 
-/* form dump */
+/* thank-you page */
 
-#form-dump {
+#thank-you {
   height: 600px;
   display: flex;
   justify-content: center;
@@ -246,9 +246,9 @@ however code design has largely changed throughout development */
     margin-top: 20px;
   }
 
-  /* form dump */
+  /* thank-you page */
 
-  #form-dump {
+  #thank-you {
     background-size: contain;
     width: 100%;
     margin: auto;
@@ -287,9 +287,9 @@ however code design has largely changed throughout development */
     margin: 0 0 0 25px;
   }
 
-  /* form dump */
+  /* thank-you page */
 
-  #form-dump {
+  #thank-you {
     display: flex;
     background-size: contain;
     width: 100%;
