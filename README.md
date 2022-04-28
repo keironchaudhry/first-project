@@ -214,6 +214,7 @@ The issues that came about were:
 
 4. Poor performance from hero-image on the Contact page.
 * Solution: Using media queries for different screen sizes and lower, have adjusted the CSS style so that it can be displayed correctly.
+* Solution (2) 28-04-2022: Totally replaced image with a new one, and removed margins on responsive design.
 
 5. Navigation bar on Mozilla Firefox browser was not cropping correctly despite it functioning on Safari and Google Chrome.
 * Solution: Removed float from the style.css file for screens 768px or lower.
@@ -223,6 +224,12 @@ The issues that came about were:
 
 7. Footer crops outside of website border as screen sizes collapse lower.
 * Solution: Changed the font size on the i elements to fix the spacing. 
+
+8. Left-side margin on input labels mis-alignment in responsive design.
+* Solution: Gone through the responsive design and adjusted margin on label. 
+
+9. Resolution size of contact-page hero image taking long to load and too big.
+* Solution: First resized image, which fixed issue initially, but decided to totally replace the image with a smaller resolution image. 
 
 **Ongoing bugs**
 
