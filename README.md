@@ -166,7 +166,7 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
   * Contains a map guiding the user to the location.
   * Contains link at the bottom of the page to guide the user straight to the sign-up page.
 
-![contact-us-hero-image2](https://user-images.githubusercontent.com/78651133/165693308-061b055d-0a32-48c9-8044-af31a2d4c259.jpeg)
+![screenshot-contact-header-2](https://user-images.githubusercontent.com/78651133/165693558-00bf27fd-cb40-44a6-b876-98db4dcc6517.jpg)
 ![screenshot-contact-timeable](https://user-images.githubusercontent.com/78651133/164626469-859b3eca-d751-4ef5-906e-8db40fcafc69.jpg)
 ![screenshot-contact-contact-us](https://user-images.githubusercontent.com/78651133/164626488-e594df6f-c749-49da-b08b-657ec1db5480.jpg)
 ![screenshot-contact-location](https://user-images.githubusercontent.com/78651133/164626532-12010e02-e251-458f-847a-7b675dad5c42.jpg)
