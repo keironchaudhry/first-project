@@ -330,12 +330,6 @@ however code design has largely changed throughout development */
   #recommended-links a {
     font-size: smaller;
   }
-
-  /* contact page */
-
-  #contact-image {
-    margin-bottom: -180px;
-  }
 }
 
 @media screen and (max-width: 375px) {
@@ -354,12 +348,6 @@ however code design has largely changed throughout development */
 
   #recommended-links a {
     font-size: smaller;
-  }
-
-  /* contact page */
-
-  #contact-image {
-    margin-bottom: -180px;
   }
 }
 
