@@ -86,7 +86,7 @@ input {
 #hero-image {
   height: 600px;
   width: 100%;
-  background: url(assets/hero-image-spanish.jpg) no-repeat center center;
+  background: url(../images/hero-image-spanish.jpg) no-repeat center center;
   background-size: cover;
 }
 
@@ -140,7 +140,7 @@ however code design has largely changed throughout development */
 #contact-image {
   height: 800px;
   width: 100%;
-  background: url(assets/contact-us-hero-image2.jpeg) no-repeat center center;
+  background: url(../images/contact-us-hero-image2.jpeg) no-repeat center center;
   background-size: cover;
 }
 
@@ -176,7 +176,7 @@ however code design has largely changed throughout development */
 #sign-up-image {
   height: 600px;
   width: 100%;
-  background: url(assets/sign-up-photo.jpeg) no-repeat center center;
+  background: url(../images/sign-up-photo.jpeg) no-repeat center center;
   background-size: cover;
 }
 
@@ -206,7 +206,7 @@ however code design has largely changed throughout development */
   height: 600px;
   display: flex;
   justify-content: center;
-  background: url(assets/gracias-2-photo.jpg) no-repeat center center;
+  background: url(../images/gracias-2-photo.jpg) no-repeat center center;
   background-size: contain;
 }
 
