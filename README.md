@@ -195,6 +195,11 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 ![screenshot-form-dump-header](https://user-images.githubusercontent.com/78651133/164630858-0973d3d9-f91a-4a61-9e0f-4cffb332e1ea.jpg)
 ![screenshot-form-dump-thanks](https://user-images.githubusercontent.com/78651133/164630950-9a87700a-0ca3-43cb-8ee7-a67e08a79e5f.jpg)
 
+# Technologies used
+
+  * HTML
+  * CSS3 
+
 # Testing
 
 Testing the functionality and overall appearence of the website has been largely dealt with throughout the creation and development of the website.
