@@ -140,7 +140,7 @@ however code design has largely changed throughout development */
 #contact-image {
   height: 800px;
   width: 100%;
-  background: url(assets/contact-us-hero-image-2kpx.jpg) no-repeat center center;
+  background: url(assets/contact-us-hero-image2.jpeg) no-repeat center center;
   background-size: cover;
 }
 
@@ -298,24 +298,43 @@ however code design has largely changed throughout development */
 
   .logo {
     display: flex;
-    margin-left: 115px;
+    margin-left: 75px;
   }
 
   .menu ul {
     display: inline-block;
-    margin-left: 130px;
-  }
-
-  /* contact page */
-
-  #contact-image {
-    background-size: contain;
+    margin-left: 90px;
   }
 
   /* sign up form */
 
   label {
     margin: 0 0 0 5px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+
+  /* nav bar */
+
+  .logo {
+    display: flex;
+    margin-left: 50px;
+  }
+
+  .menu ul {
+    display: inline-block;
+    margin-left: 65px;
+  }
+
+  #recommended-links a {
+    font-size: smaller;
+  }
+
+  /* contact page */
+
+  #contact-image {
+    margin-bottom: -180px;
   }
 }
 
@@ -349,11 +368,11 @@ however code design has largely changed throughout development */
   /* nav bar */
 
   .logo {
-    margin-left: 15px;
+    margin-left: 30px;
   }
 
   .menu ul {
-    margin-left: 40px;
+    margin-left: 50px;
   }
 
   /* about spanish page */
