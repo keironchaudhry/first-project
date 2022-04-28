@@ -234,6 +234,10 @@ however code design has largely changed throughout development */
 
   /* sign up page */
 
+  label {
+    margin: 0 0 0 40px;
+  }
+
   input {
     margin: 0 auto;
   }
@@ -280,7 +284,7 @@ however code design has largely changed throughout development */
   /* sign up */
 
   label {
-    margin: 0 0 0 35px;
+    margin: 0 0 0 25px;
   }
 
   /* form dump */
