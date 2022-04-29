@@ -42,7 +42,7 @@ The required technologies are HTML and CSS3.
 * [Testing](#testing)
 * [Development and deployment](#development-and-deployment)
 * [Media](#media)
-* [Credits](#credits)
+* [Acknowledgments](#acknowledgments)
 * [Useful sources](#useful-sources)
 
 
@@ -260,7 +260,7 @@ The issues that came about were:
 
 # Development and deployment
 
-The development environment for this project was Gitpod. Regular commits and pushes to Github have been employed to be able to track the development process of the website.
+The development environment used for this project was Gitpod. Regular commits and pushes to Github have been employed to be able to track and trace the development process of the website.
 
 The live version of the project is deployed at GitHub pages.
 
