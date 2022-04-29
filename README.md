@@ -61,7 +61,7 @@ This site has been designed for students of all ages that wish to study Spanish 
 
 ### **Design**
 
-The design has been inspired by the Love Running project. The code for the footer was borrowed from that project, although different Font Awesome icons have been used. The design of the header has been influenced by that same project.
+The design has been inspired by the [Love Running project.](https://keironchaudhry.github.io/love-running/) The code for the footer was borrowed from that project, although different Font Awesome icons have been used. The design of the header has been influenced by that same project.
 
 The aim of the website has been to create a simple website with a pleasing colour scheme, which is appropriate to colours associated with the Spanish language and culture (especially around the Marbella area) and that also contains a high level of functionality.
 
@@ -127,7 +127,6 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
   * The color scheme for the navigation bar is also thematic throughout the website - orange and white, typical Mediterranean colours.
   * It is located on every single page in the same location across the website.
   
-
 ![screenshot-nar-bar](https://user-images.githubusercontent.com/78651133/164172315-246992e9-130b-44bc-815f-0f6ad42b9c8f.jpg)
 
 
@@ -198,8 +197,8 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 
 # Technologies used
 
-  * HTML
-  * CSS3 
+  * [HTML](https://en.wikipedia.org/wiki/HTML)
+  * [CSS3](https://en.wikipedia.org/wiki/CSS) 
 
 # Testing
 
@@ -286,7 +285,7 @@ And finally the form-dump "Gracias!" is credited to the "Fundacion Hospital Gene
 
 All other images were sourced via Pexels.
 
-# Credits
+# Acknowledgments
 
 For inspiration, guidance and inputs, thank you to:
 
