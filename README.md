@@ -40,6 +40,7 @@ The required technologies are HTML and CSS3.
     * [Sign up page](#sign-up-page)
     * [Form dump](#form-dump)
 * [Testing](#testing)
+* [Development and deployment](#development-and-deployment)
 * [Media](#media)
 * [Credits](#credits)
 * [Useful sources](#useful-sources)
@@ -257,6 +258,23 @@ The issues that came about were:
 * Lighthouse testing
 
 ![lighthouse-about-page](https://user-images.githubusercontent.com/78651133/164883208-5bf1c806-62ee-4dd8-b199-8e42b0b8fa2d.jpg)
+
+# Development and deployment
+
+The development environment for this project was Gitpod. Regular commits and pushes to Github have been employed to be able to track the development process of the website.
+
+The live version of the project is deployed at GitHub pages.
+
+The procedure for deployment followed the "Creating your site" steps provided in GitHub Docs.
+
+1.	Log into Github.
+2.	Select desired GitHub Repository to be deployed live.
+3.	Underneath the repository name, click the “Settings” option.
+4.	In the sub-section list on the left, under “Code and automation”, click “Pages”.
+5.	Within the ”Source” section choose ”main” as Branch and root as folder and click ”Save”.
+6.	The page refreshes and a website shall then deploy via a link.
+
+The following is the live link deployed: https://keironchaudhry.github.io/p1-marbella-spanish-school/
 
 # Media
 
