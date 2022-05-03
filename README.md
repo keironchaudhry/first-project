@@ -4,7 +4,7 @@
 
 The Marbella Spanish School is a website designed to advertise the fictional aforementioned academic private school and enroll students onto the courses it offers. The school offers a Full-time Course and Part-Time Course and carries out examinations based on the Common European Language Framework.
 
-The website contains three main pages: About, Contact and Sign Up, which are all linked together to give guided content.
+The website contains four pages: About, Contact, Sign Up and a Thank You page (after signing up) which are all linked together to give guided content.
 
 Users of the website are able to find all the information they need regarding the school and what it is offers, its location and time schedule and are able to sign-up for its services. The website is targeted towards students of any age looking to achieve official certification in the Spanish language.
 
@@ -31,14 +31,14 @@ The required technologies are HTML and CSS3.
     * [About page](#-about-page)
     * [Contact page](#-contact-page)
     * [Sign up page](#-sign-up-page)
-    * [Form dump page](#-form-dump-page)
+    * [Thank you page](#-thank-you-page)
 * [Website features](#website-features)
     * [Navigation bar](#navigation-bar)
     * [About page](#about-page)
     * [Footer](#footer)
     * [Contact page](#contact-page)
     * [Sign up page](#sign-up-page)
-    * [Form dump](#form-dump)
+    * [Thank you page](#thank-you)
 * [Testing](#testing)
 * [Development and deployment](#development-and-deployment)
 * [Media](#media)
@@ -109,7 +109,7 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
    * Submit
    * Footer
 
-#### * "Form-dump" page
+#### * "Thank you" page
    * Nav bar
    * Hero-image
    * "Thank you" message
@@ -187,7 +187,7 @@ The Marbella Spanish School has three main HTML pages and a fourth for when the 
 ![screenshot-sign-up-form](https://user-images.githubusercontent.com/78651133/164628078-989ef4f6-6b39-44f6-90e3-5105cf3a016e.jpg)
 ![screenshot-sign-up-thanks](https://user-images.githubusercontent.com/78651133/164628672-4675d44b-af7e-4c9f-836e-fffe7409c4bf.jpg)
 
-### **Form dump**
+### **Thank you**
 
   * Contains a hero-image with a thank you message, in this case in Spanish ("Gracias!").
   * Contains below a descriptive thank you message for the user.
