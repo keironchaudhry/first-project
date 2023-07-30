@@ -15,6 +15,10 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 10px 20px;
+  background: #fff;
+  position: fixed;
+  width: 100%;
+  opacity: 0.85;
 }
 
 /* nav bar design */
@@ -26,10 +30,11 @@ nav {
 .nav-links {
   list-style: none;
   display: flex;
+  margin-right: 50px;
 }
 
 .nav-links li {
-  margin-left: 50px;
+  margin-left: 30px;
 }
 
 .nav-links li a {
@@ -39,6 +44,8 @@ nav {
   font-size: 20px;
   letter-spacing: 2px;
 }
+
+/* ------------------ */
 
 footer ul {
   display: flex;
