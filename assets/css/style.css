@@ -68,6 +68,10 @@ input {
   border-radius: 8px;
 }
 
+img {
+  width: 100%;
+}
+
 /* hero image */
 
 #hero-image {
