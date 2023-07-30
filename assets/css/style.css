@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@300&display=swap");
 
 * {
   margin: 0;
@@ -10,30 +10,34 @@ body {
   font-family: Montserrat, sans-serif;
 }
 
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-
-li {
-  float: right;
+nav {
   display: flex;
-  justify-content: space-evenly;
-  text-align: center;
-  padding: 16px 35px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+}
+
+/* nav bar design */
+
+.mss-logo img {
+  width: 55%;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+}
+
+.nav-links li {
+  margin-left: 50px;
+}
+
+.nav-links li a {
   text-decoration: none;
-  font-size: large;
+  color: #ff4500;
   font-weight: bold;
-}
-
-li a {
-  color: #FF4500;
-}
-
-img {
-  width: 100%;
+  font-size: 20px;
+  letter-spacing: 2px;
 }
 
 footer ul {
@@ -49,7 +53,7 @@ i {
 label {
   margin: 0 0 0 70px;
   font-weight: bold;
-  color: #FF4500;
+  color: #ff4500;
 }
 
 input {
@@ -62,20 +66,6 @@ input {
   border: none;
   background: #f1f1f1;
   border-radius: 8px;
-}
-
-/* nav bar design */
-
-.mss-logo img {
-  width: 25%;
-  height: 30%;
-}
-
-.menu {
-  list-style-type: none;
-  position: fixed;
-  width: 100%;
-  background-color: #fff;
 }
 
 /* hero image */
@@ -91,7 +81,7 @@ input {
 
 .about-spanish h2 {
   margin-top: 30px;
-  color: #FFA500;
+  color: #ffa500;
   text-align: center;
   letter-spacing: 5px;
   font-family: Bebas Neue, sans-serif;
@@ -99,7 +89,7 @@ input {
 }
 
 .about-spanish p {
-  color: #FF4500;
+  color: #ff4500;
   text-align: center;
   margin: 20px 35px 20px 35px;
 }
@@ -120,7 +110,7 @@ however code design has largely changed throughout development */
 .row {
   display: flex;
   justify-content: center;
-} 
+}
 
 /* recommended links */
 
@@ -146,14 +136,14 @@ however code design has largely changed throughout development */
 .contact-page h3 {
   display: flex;
   justify-content: center;
-  color: #FF4500;
+  color: #ff4500;
   font-weight: bolder;
   text-decoration: underline;
   padding: 15px 0 15px 0;
 }
 
 .contact-page p {
-  color: #FF4500;
+  color: #ff4500;
   text-align: center;
   justify-content: center;
   margin: 10px 50px 10px 50px;
@@ -182,7 +172,7 @@ however code design has largely changed throughout development */
 }
 
 .submit {
-  background-color: #FF4500;
+  background-color: #ff4500;
   color: #fff;
   font-weight: bold;
   font-size: large;
@@ -212,7 +202,6 @@ however code design has largely changed throughout development */
 /* for screens 1024px and lower */
 
 @media screen and (max-width: 1024px) {
-
   /* nav bar */
 
   .logo {
@@ -253,7 +242,6 @@ however code design has largely changed throughout development */
 }
 
 @media screen and (max-width: 768px) {
-
   /* about page */
 
   .logo {
@@ -294,7 +282,6 @@ however code design has largely changed throughout development */
 }
 
 @media screen and (max-width: 500px) {
-
   /* nav bar */
 
   .logo {
@@ -315,7 +302,6 @@ however code design has largely changed throughout development */
 }
 
 @media screen and (max-width: 425px) {
-
   /* nav bar */
 
   .logo {
@@ -334,7 +320,6 @@ however code design has largely changed throughout development */
 }
 
 @media screen and (max-width: 375px) {
-
   /* nav bar */
 
   .logo {
@@ -353,7 +338,6 @@ however code design has largely changed throughout development */
 }
 
 @media screen and (max-width: 320px) {
-
   /* nav bar */
 
   .logo {
