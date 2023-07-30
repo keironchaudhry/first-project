@@ -77,6 +77,11 @@ input {
 
 /* nav bar design */
 
+.mss-logo img {
+  width: 25%;
+  height: 30%;
+}
+
 .menu {
   list-style-type: none;
   position: fixed;
