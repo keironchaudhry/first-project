@@ -60,8 +60,13 @@ nav {
 
 footer ul {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   margin: 30px 0 30px 0;
+}
+
+footer p {
+  font-weight: bold;
+  color: #ff4500;
 }
 
 i {
