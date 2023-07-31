@@ -13,18 +13,22 @@
       content="marbella spanish school, spanish, marbella, malaga, spain, learn spanish"
     />
 
-    <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+    <link
+      href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.15/dist/tailwind.min.css"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="assets/css/style.css" />
     <title>Marbella Spanish School</title>
   </head>
 
   <body>
     <header>
-      <nav class="sticky">
+      <nav>
         <a href="index.html" class="mss-logo"
           ><img
             src="/assets/images/MSS title .png"
             alt="Marbella Spanish School Logo"
+            class="border-none"
         /></a>
         <ul class="nav-links">
           <li>
@@ -174,45 +178,11 @@
 
     <!-- footer borrowed from love running project -->
 
-    <footer>
-      <ul class="social-media">
-        <li>
-          <a
-            href="https://facebook.com"
-            target="_blank"
-            rel="noopener"
-            aria-label="Visit our Facebook page (opens in a new tab)"
-            ><i class="fa-brands fa-facebook-square"></i
-          ></a>
-        </li>
-        <li>
-          <a
-            href="https://twitter.com"
-            target="_blank"
-            rel="noopener"
-            aria-label="Visit our Twitter page (opens in a new tab)"
-            ><i class="fa-brands fa-twitter-square"></i
-          ></a>
-        </li>
-        <li>
-          <a
-            href="https://instagram.com"
-            target="_blank"
-            rel="noopener"
-            aria-label="Visit our Instagram page (opens in a new tab)"
-            ><i class="fa-brands fa-instagram-square"></i
-          ></a>
-        </li>
-        <li>
-          <a
-            href="https://youtube.com"
-            target="_blank"
-            rel="noopener"
-            aria-label="Visit our Youtube page (opens in a new tab)"
-            ><i class="fa-brands fa-youtube-square"></i
-          ></a>
-        </li>
-      </ul>
+    <footer class="bg-gray-800 py-6 text-center text-white">
+      <div class="container mx-auto">
+        <p>&copy; 2023 Your Website Name. All rights reserved.</p>
+        <p class="mt-2">1234 Street Ave, City, Country</p>
+      </div>
     </footer>
 
     <!-- font awesome script -->
